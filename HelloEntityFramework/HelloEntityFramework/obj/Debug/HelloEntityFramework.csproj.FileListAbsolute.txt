@@ -1,0 +1,1 @@
+f:\denis\mes documents\visual studio 2013\Projects\HelloEntityFramework\HelloEntityFramework\bin\Debug\HelloEntityFramework.exe.config
